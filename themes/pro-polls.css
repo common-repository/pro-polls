@@ -1,0 +1,40 @@
+.ppolls_question_section
+{
+	float:left;
+	width:100%;
+	margin:10px 0px;
+}
+
+.ppolls_question
+{
+	font-weight: bold;
+}
+.ppolls_val_error
+{
+	font-weight:normal;
+	color:#f00;
+}
+.polls_submit_error
+{
+	padding:4px 10px;
+	background:#FCF;
+	color:#990000;
+	border: 1px solid #990000;
+	margin:10px 0px;
+}
+.polls_submit_notification
+{
+	padding:4px 10px;
+	background:#eef;
+	color:#000099;
+	border: 1px solid #000099;
+	margin:10px 0px;
+}
+ul.ppolls_options
+{
+	list-style:none;
+}
+ul.ppolls_options li
+{
+	list-style:none;
+}
